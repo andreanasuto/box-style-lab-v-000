@@ -71,3 +71,11 @@ img {
 h4.amiable {
   background: linear-gradient(#44cc66, yellow);
 }
+
+h4.indifferent {
+  background: linear-gradient(#dddd22, yellow);
+}
+
+h4.dubious {
+  background: linear-gradient(#dd4444, yellow);
+}
