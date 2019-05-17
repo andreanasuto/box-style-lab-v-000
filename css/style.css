@@ -68,6 +68,6 @@ img {
   border: 1px solid black;
 }
 
-h4 .amiable {
+h4.amiable {
   background: linear-gradient(red, yellow);
 }
